@@ -6,12 +6,12 @@ import ShoppingCart from './components/ShoppingCart';
 function App() {
   const initialPictures = [
     { imageURL: '/Pictures/flower1.jpg', price: 10 },
-    { imageURL: '/Pictures/flower2.jpg', price: 15 },
+    { imageURL: '/Pictures/7.jpg', price: 15 },
     { imageURL: '/Pictures/flower3.jpg', price: 5 },
     { imageURL: '/Pictures/4.jpg', price: 10 },
     { imageURL: '/Pictures/5.jpg', price: 15 },
     { imageURL: '/Pictures/6.jpg', price: 5 },
-    { imageURL: '/Pictures/7.jpg', price: 10 },
+    { imageURL: '/Pictures/flower2.jpg', price: 10 },
     { imageURL: '/Pictures/8.jpg', price: 15 },
     { imageURL: '/Pictures/9.jpg', price: 5 },
     { imageURL: '/Pictures/10.jpg', price: 10 },

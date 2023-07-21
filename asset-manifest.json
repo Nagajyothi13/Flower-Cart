@@ -1,15 +1,26 @@
 {
   "files": {
     "main.css": "/Ignitus_task/static/css/main.1b9eac8a.css",
-    "main.js": "/Ignitus_task/static/js/main.62385e57.js",
+    "main.js": "/Ignitus_task/static/js/main.abeb61ee.js",
     "static/js/787.7d16def6.chunk.js": "/Ignitus_task/static/js/787.7d16def6.chunk.js",
+    "static/media/10.jpg": "/Ignitus_task/static/media/10.cdbae199be4427162b3a.jpg",
+    "static/media/flower1.jpg": "/Ignitus_task/static/media/flower1.a2986665762a0f179d2d.jpg",
+    "static/media/4.jpg": "/Ignitus_task/static/media/4.34fdb80c86e9d79d041e.jpg",
+    "static/media/6.jpg": "/Ignitus_task/static/media/6.8e5ec85d895e2d325bca.jpg",
+    "static/media/flower3.jpg": "/Ignitus_task/static/media/flower3.bb451740f534f6ce345f.jpg",
+    "static/media/flower2.jpg": "/Ignitus_task/static/media/flower2.acb6e46e66f68d31067f.jpg",
+    "static/media/7.jpg": "/Ignitus_task/static/media/7.2ae3709562b6e74310a3.jpg",
+    "static/media/8.jpg": "/Ignitus_task/static/media/8.c4b6c56fbff58fe1c81f.jpg",
+    "static/media/5.jpg": "/Ignitus_task/static/media/5.75af83c3872cd68f307b.jpg",
+    "static/media/9.jpg": "/Ignitus_task/static/media/9.c7fa02cdea44d22e206f.jpg",
+    "static/media/11.jpg": "/Ignitus_task/static/media/11.33fe068f453c53308e92.jpg",
     "index.html": "/Ignitus_task/index.html",
     "main.1b9eac8a.css.map": "/Ignitus_task/static/css/main.1b9eac8a.css.map",
-    "main.62385e57.js.map": "/Ignitus_task/static/js/main.62385e57.js.map",
+    "main.abeb61ee.js.map": "/Ignitus_task/static/js/main.abeb61ee.js.map",
     "787.7d16def6.chunk.js.map": "/Ignitus_task/static/js/787.7d16def6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b9eac8a.css",
-    "static/js/main.62385e57.js"
+    "static/js/main.abeb61ee.js"
   ]
 }

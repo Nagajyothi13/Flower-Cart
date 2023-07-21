@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ignitus_task/static/css/main.1b9eac8a.css",
+    "main.js": "/Ignitus_task/static/js/main.62385e57.js",
+    "static/js/787.7d16def6.chunk.js": "/Ignitus_task/static/js/787.7d16def6.chunk.js",
+    "index.html": "/Ignitus_task/index.html",
+    "main.1b9eac8a.css.map": "/Ignitus_task/static/css/main.1b9eac8a.css.map",
+    "main.62385e57.js.map": "/Ignitus_task/static/js/main.62385e57.js.map",
+    "787.7d16def6.chunk.js.map": "/Ignitus_task/static/js/787.7d16def6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b9eac8a.css",
+    "static/js/main.62385e57.js"
+  ]
+}
